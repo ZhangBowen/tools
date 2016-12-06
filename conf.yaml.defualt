@@ -1,0 +1,17 @@
+#项目名称
+project_name : 'zhangbowen_test'
+
+#监控文件名,写绝对路径
+files_path :
+    - /data2/zhangbowen/download/kevin_feas
+
+#文件更新时间报警阈值,超过此时间报警
+refresh_time :
+    days : 1
+    hour : 0
+    min : 0
+
+#报警接收人
+admins:
+	- 18612598625 #井哲天
+	- 13611319058 #罗景
